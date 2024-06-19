@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Holly He (Lin)</h1>
+<h1 align="center">Hi 👋, I'm Lin He (Holly)</h1>
 <h3 align="center">⚡ I’m passionate about leveraging data science in business, to drive decision-making and foster growth</h3>
 
 <h4 align="left">📄 B.S. in Data Science and M.S. in Business Analytics
